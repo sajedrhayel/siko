@@ -1,0 +1,5 @@
+git clone https://github.com/Noso-Project/consominer/releases/download/v0.60/consominer-v0.60-x86_64-linux.tar.gz
+tar -xf consominer-v0.60-x86_64-linux.tar.gz
+./consominer
+cpu 4
+mine
